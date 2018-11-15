@@ -2,7 +2,9 @@
 
 This is a memory card game, where to you have to only click the new picture every time to get points. If you accidentally click on the same image twice, you lose your score!
 
-##Link to Game:
+## Link to Game:
+
+https://vishnuswaminathan.github.io/Avatar-Memory-Game/
 
 ## Technologies Used:
 
