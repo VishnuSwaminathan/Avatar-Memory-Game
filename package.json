@@ -1,8 +1,8 @@
 {
   "name": "card-clicker",
+  "homepage": "http://vishnuswaminathan.github.io/Avatar-Memory-Game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vishnuswaminathan.github.io/Avatar-Memory-Game/",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
