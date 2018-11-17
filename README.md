@@ -4,8 +4,6 @@ This is a memory card game, where to you have to only click the new picture ever
 
 ## Link to Game:
 
-https://vishnuswaminathan.github.io/Avatar-Memory-Game/
-
 ## Technologies Used:
 
 - React
