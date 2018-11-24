@@ -1,13 +1,13 @@
 {
-  "main.css": "/Avatar-Memory-Game/static/css/main.7f70c4e2.chunk.css",
-  "main.js": "/Avatar-Memory-Game/static/js/main.4e2bc60e.chunk.js",
-  "main.js.map": "/Avatar-Memory-Game/static/js/main.4e2bc60e.chunk.js.map",
+  "main.css": "/Avatar-Memory-Game/static/css/main.8a9afdc0.chunk.css",
+  "main.js": "/Avatar-Memory-Game/static/js/main.7abdd87c.chunk.js",
+  "main.js.map": "/Avatar-Memory-Game/static/js/main.7abdd87c.chunk.js.map",
   "static/js/1.8fdf2345.chunk.js": "/Avatar-Memory-Game/static/js/1.8fdf2345.chunk.js",
   "static/js/1.8fdf2345.chunk.js.map": "/Avatar-Memory-Game/static/js/1.8fdf2345.chunk.js.map",
   "runtime~main.js": "/Avatar-Memory-Game/static/js/runtime~main.822c79aa.js",
   "runtime~main.js.map": "/Avatar-Memory-Game/static/js/runtime~main.822c79aa.js.map",
-  "static/css/main.7f70c4e2.chunk.css.map": "/Avatar-Memory-Game/static/css/main.7f70c4e2.chunk.css.map",
+  "static/css/main.8a9afdc0.chunk.css.map": "/Avatar-Memory-Game/static/css/main.8a9afdc0.chunk.css.map",
   "index.html": "/Avatar-Memory-Game/index.html",
-  "precache-manifest.1df7f5ee4fa7d2c636a37a7bbb74ee58.js": "/Avatar-Memory-Game/precache-manifest.1df7f5ee4fa7d2c636a37a7bbb74ee58.js",
+  "precache-manifest.a85150cd870edc32f0633fdc85b2b7f0.js": "/Avatar-Memory-Game/precache-manifest.a85150cd870edc32f0633fdc85b2b7f0.js",
   "service-worker.js": "/Avatar-Memory-Game/service-worker.js"
 }

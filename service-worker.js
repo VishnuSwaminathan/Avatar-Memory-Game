@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Avatar-Memory-Game/precache-manifest.1df7f5ee4fa7d2c636a37a7bbb74ee58.js"
+  "/Avatar-Memory-Game/precache-manifest.a85150cd870edc32f0633fdc85b2b7f0.js"
 );
 
 workbox.clientsClaim();
